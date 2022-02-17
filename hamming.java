@@ -1,6 +1,6 @@
 class HammingCode {
   
-    // print elements of array
+    // print elements of Array
     static void print(int ar[])
     {
         for (int i = 1; i < ar.length; i++) {
@@ -37,15 +37,15 @@ class HammingCode {
                 == 0) {
   
                 // if i == 2^n for n in (0, 1, 2, .....)
-                // then ar[i]=0
-                // codeword[i] = 0 ----
-                // redundant bits are initialized
-                // with value 0
+                // Then ar[i]=0
+                // Codeword[i] = 0 ----
+                // Redundant bits are initialized
+                // With value 0
                 ar[i] = 0;
             }
             else {
   
-                // codeword[i] = dataword[j]
+                // Codeword[i] = dataword[j]
                 ar[i] = (int)(str.charAt(j) - '0');
                 j++;
             }
@@ -57,7 +57,7 @@ class HammingCode {
     public static void main(String[] args)
     {
   
-        // input message
+        // Input Message
         String str = "0101";
         int M = str.length();
         int r = 1;
