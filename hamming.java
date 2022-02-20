@@ -53,7 +53,7 @@ class HammingCode {
         return ar;
     }
   
-    // driver code
+    // Driver code
     public static void main(String[] args)
     {
   
