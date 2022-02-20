@@ -45,7 +45,7 @@ class HammingCode {
             }
             else {
   
-                // Codeword[i] = dataword[j]
+                // codeword[i] = dataword[j]
                 ar[i] = (int)(str.charAt(j) - '0');
                 j++;
             }
