@@ -40,7 +40,7 @@ class HammingCode {
                 // Then ar[i]=0
                 // Codeword[i] = 0 ----
                 // Redundant bits are initialized
-                // With value 0
+                // with value 0
                 ar[i] = 0;
             }
             else {
