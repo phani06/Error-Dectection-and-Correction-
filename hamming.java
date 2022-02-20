@@ -38,7 +38,7 @@ class HammingCode {
   
                 // if i == 2^n for n in (0, 1, 2, .....)
                 // Then ar[i]=0
-                // Codeword[i] = 0 ----
+                // codeword[i] = 0 ----
                 // redundant bits are initialized
                 // with value 0
                 ar[i] = 0;
