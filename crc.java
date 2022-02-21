@@ -1,4 +1,4 @@
-// import required classes and packages  
+// Import required classes and packages  
 package javaTpoint.MicrosoftJava;  
 import java.util.*;  
 // Create CRCExample class to demonstrate the working of Cyclic Redundancy Check  
