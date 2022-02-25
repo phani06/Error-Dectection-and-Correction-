@@ -5,7 +5,7 @@ import java.util.*;
 class CRCExample {  
     // main() method start  
     public static void main(String args[]) {  
-        // create scanner class object to take input from user  
+        // Create scanner class object to take input from user  
         Scanner scan = new Scanner(System.in);  
         // declare n for the size of the data  
         int size;  
