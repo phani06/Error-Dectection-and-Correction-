@@ -7,7 +7,7 @@ class CRCExample {
     public static void main(String args[]) {  
         // Create scanner class object to take input from user  
         Scanner scan = new Scanner(System.in);  
-        // declare n for the size of the data  
+        // Declare n for the size of the data  
         int size;  
         // take the size of the data from the user  
         System.out.println("Enter the size of the data array: ");  
