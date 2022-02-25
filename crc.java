@@ -14,7 +14,7 @@ class CRCExample {
         size = scan.nextInt();  
         // Declaration of the data array  
         int data[] = new int[size];  
-        // take bits of the data from the user  
+        // Take bits of the data from the user  
         System.out.println("Enter data bits in the array one by one: ");  
         for(int i = 0 ; i < size ; i++) {  
             System.out.println("Enter bit " + (size-i) + ":");  
