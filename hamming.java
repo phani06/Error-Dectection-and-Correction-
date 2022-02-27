@@ -57,7 +57,7 @@ class HammingCode {
     public static void main(String[] args)
     {
   
-        // input Message
+        // input message
         String str = "0101";
         int M = str.length();
         int r = 1;
