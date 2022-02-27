@@ -9,7 +9,7 @@ class HammingCode {
         System.out.println();
     }
   
-    // Calculating Value of redundant bits
+    // Calculating Value of Redundant bits
     static int[] calculation(int[] ar, int r)
     {
         for (int i = 0; i < r; i++) {
