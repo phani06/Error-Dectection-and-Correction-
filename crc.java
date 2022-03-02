@@ -1,7 +1,7 @@
 // Import required classes and packages  
 package javaTpoint.MicrosoftJava;  
 import java.util.*;  
-// create crcexample class to demonstrate the working of cyclic redundancy Check  
+// create crcexample class to demonstrate the working of cyclic redundancy check  
 class CRCExample {  
     // main() method start  
     public static void main(String args[]) {  
