@@ -1,6 +1,6 @@
 class HammingCode {
   
-    // Print Elements Of Array
+    // print Elements Of Array
     static void print(int ar[])
     {
         for (int i = 1; i < ar.length; i++) {
